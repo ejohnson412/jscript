@@ -1,0 +1,2 @@
+# jscript
+for javascript stuff
